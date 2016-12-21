@@ -1,2 +1,5 @@
-# phx-wdf-jquery-part1-project1
-Galvanize Prep Project 6.1.1
+# jQuery (Project 1)
+
+This project will give you an opprotunity to start practicing with jQuery. 
+
+> Reminder: Solution Guide is provided for this project.
